@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">PermissionsLab</string>
+    <string name="hello_world">You have opened a dangerous activity</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_bookmarks">BookmarksActivity</string>
+    <string name="title_activity_go_to_dangerous">GoToDangerousActivity</string>
+    
+    <string name="cust_message">This button will load a Dangerous Level activity</string>
+    <string name="cust_button1">Start Dangerous Activity</string>
+    
+    <string name="place_holder">Bookmarks Go Here</string>
+    <string name="perms_button1">Get Bookmarks</string>
+    <string name="perms_button2">Go To DangerousActivity</string>
+
+    <string name="main_button3">Bookmarks Activity</string>
+
+</resources>
